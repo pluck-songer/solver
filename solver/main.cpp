@@ -1,4 +1,4 @@
-#include "solver/gauss_newton.h"
+#include "gauss_newton/gauss_newton.h"
 #include <iostream>
 #include <random>
 int main()

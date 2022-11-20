@@ -1,5 +1,5 @@
 CMAKE_MINIMUM_REQUIRED(VERSION 3.10)
 project(non_linear_solver)
 add_executable(main main.cpp)
-add_subdirectory(solver)
+add_subdirectory(gauss_newton)
 target_link_libraries(main gauss_newton)
