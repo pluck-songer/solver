@@ -3,7 +3,7 @@
 #include <random>
 int main()
 {
-    // true funtion : x ^ 2 + 2 * x + 3;
+    // true funtion : x^3+ 2* x^2 + 3 * x + 4;
     Eigen::VectorXd int_x(4);
     int_x << 1.1, 2.2, 3.3, 4.4;
 
