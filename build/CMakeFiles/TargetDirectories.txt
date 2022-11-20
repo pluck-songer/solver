@@ -1,0 +1,14 @@
+/home/song/code/gauss_newton_solver/build/CMakeFiles/install/strip.dir
+/home/song/code/gauss_newton_solver/build/CMakeFiles/edit_cache.dir
+/home/song/code/gauss_newton_solver/build/CMakeFiles/main.dir
+/home/song/code/gauss_newton_solver/build/CMakeFiles/rebuild_cache.dir
+/home/song/code/gauss_newton_solver/build/CMakeFiles/list_install_components.dir
+/home/song/code/gauss_newton_solver/build/CMakeFiles/install/local.dir
+/home/song/code/gauss_newton_solver/build/CMakeFiles/install.dir
+/home/song/code/gauss_newton_solver/build/solver/CMakeFiles/install/strip.dir
+/home/song/code/gauss_newton_solver/build/solver/CMakeFiles/edit_cache.dir
+/home/song/code/gauss_newton_solver/build/solver/CMakeFiles/gauss_newton.dir
+/home/song/code/gauss_newton_solver/build/solver/CMakeFiles/install.dir
+/home/song/code/gauss_newton_solver/build/solver/CMakeFiles/rebuild_cache.dir
+/home/song/code/gauss_newton_solver/build/solver/CMakeFiles/list_install_components.dir
+/home/song/code/gauss_newton_solver/build/solver/CMakeFiles/install/local.dir

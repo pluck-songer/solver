@@ -1,0 +1,2 @@
+/usr/bin/ar qc libgauss_newton.a  CMakeFiles/gauss_newton.dir/gauss_newton.cpp.o
+/usr/bin/ranlib libgauss_newton.a

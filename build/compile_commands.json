@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/song/code/gauss_newton_solver/build",
+  "command": "/usr/bin/c++    -g   -o CMakeFiles/main.dir/main.cpp.o -c /home/song/code/gauss_newton_solver/main.cpp",
+  "file": "/home/song/code/gauss_newton_solver/main.cpp"
+},
+{
+  "directory": "/home/song/code/gauss_newton_solver/build/solver",
+  "command": "/usr/bin/c++    -g   -o CMakeFiles/gauss_newton.dir/gauss_newton.cpp.o -c /home/song/code/gauss_newton_solver/solver/gauss_newton.cpp",
+  "file": "/home/song/code/gauss_newton_solver/solver/gauss_newton.cpp"
+}
+]

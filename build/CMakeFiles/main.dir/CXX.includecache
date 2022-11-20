@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/song/code/gauss_newton_solver/main.cpp
+solver/gauss_newton.h
+/home/song/code/gauss_newton_solver/solver/gauss_newton.h
+iostream
+-
+random
+-
+
+/home/song/code/gauss_newton_solver/solver/gauss_newton.h
+eigen3/Eigen/Core
+-
+vector
+-
+iostream
+-
+
