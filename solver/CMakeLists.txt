@@ -1,6 +1,5 @@
-add_library(gauss_newton gauss_newton.cpp)
-
-install(TARGETS gauss_newton
-        ARCHIVE DESTINATION lib
-        LIBRARY DESTINATION lib
-        RUNTIME DESTINATION lib)
+CMAKE_MINIMUM_REQUIRED(VERSION 3.10)
+project(non_linear_solver)
+add_executable(main main.cpp)
+add_subdirectory(solver)
+target_link_libraries(main gauss_newton)

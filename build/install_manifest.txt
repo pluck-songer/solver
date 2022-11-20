@@ -1,1 +1,0 @@
-/usr/local/lib/libgauss_newton.a
